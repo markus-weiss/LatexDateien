@@ -1,0 +1,199 @@
+\chapter{Formale Sprachen}\label{sec:Kapitel formale Sprachen}
+\section{Grundlagen der Mengenlehre}\label{sec:Einführung_FS}
+
+\textbf{Kapitelinhalt:}
+\begin{itemize}
+\item Grundlagen der Mengenlehre
+\item Relationen und Funktionen
+\item Die Welt der Zahlen
+\item Rekursion und induktive Beweise 
+\end{itemize}
+
+
+\subsection{Der Mengenbegriff}
+
+
+\begin{figure}[h]
+\centering
+\textit{a} $\in$ M,\\ bedeutet a ist \textbf{ein} Element der Menge \textit{M}.\\
+\textit{a} $\notin$ M,\\ bedeutet a ist \textbf{kein} Element der Menge \textit{M}.\\
+\textit{a,b} $\in$ M,\\ bedeutet, dass a und b \textbf{ein} Element der Menge \textit{M} sind.\\
+\textit{a,b} $\notin$ M,\\ bedeutet, dass a und b \textbf{keine} Element der Menge \textit{M} sind.\\
+
+\textit{M}\textsubscript{1} und \textit{M}\textsubscript{2} gelten als \textbf{gleich}\\ 
+(\textit{M}\textsubscript{1} $=$ \textit{M}\textsubscript{2}),\\
+ wenn sie \textbf{exakt} dieselben Elemente enthalten.\\
+
+\textit{M}\textsubscript{1} und \textit{M}\textsubscript{2} gelten als \textbf{ungleich}\\ 
+(\textit{M}\textsubscript{1} $\neq$ \textit{M}\textsubscript{2}),\\
+ wenn sie \textbf{exakt} dieselben Elemente enthalten.\\
+
+Auch eine \textit{leere} Menge, gilt als Menge und wird mit $\emptyset$ symbolisiert.\\
+ 
+In einer Menge ist \textbf{niemals zweimal} das selbe Element enthalten und besitzen auch keinen festen Platz. Sie sind somit \textit{inhärent} und \textit{ungeordnet}.\\
+
+\end{figure}
+
+
+\newpage    
+
+\textbf{Zeichenerklärung:}\\
+
+\textbf{Runde Klammern:}\\
+
+\begin{figure}[h]
+\centering
+{(...)} = Tuple o. Paar.\\ 
+\end{figure}
+
+(\textit{Hinweis:} In Runden Klammern ist die Reihenfolge entscheidet. D.h. das dieses Paar auch nur genau so als Menge vorkommen darf )\\
+
+\textbf{Geschweifte Klammern:} \\ 
+
+\begin{figure}[h]
+\centering
+\{...\} = Aufzählung. \\ 
+\end{figure}
+
+(\textit{Hinweis:} Bei einer Aufzählung von Mengen ist die Reihenfolge egal.\\
+
+
+
+
+\textbf{Aufzählende Beschreibung}\\
+Die Elemente einer Menge werden explizit aufgelistet. Selbst unendliche
+Mengen lassen sich aufzählend \textit{enumerativ} beschreiben,
+wenn die Elemente einer unmittelbar einsichtigen Regelmäßigkeit
+unterliegen. Die nachstehenden Beispiele bringen Klarheit:\\
+
+Die Menge der \textit{natürlichen Zahlen}: \\
+
+\begin{figure}[h]
+\centering
+
+$\mathbb{N}$ := \{0,1,2,3,... \}\\
+\textit{M}\textsubscript{1} := \{0,1,2,3,... \}\\
+\end{figure}
+
+\textbf{Deskriptive Beschreibung}\\
+Die Mengenzugehörigkeit eines Elements wird durch eine charakteristische
+Eigenschaft beschrieben. Genau jene Elemente sind in der
+Menge enthalten, auf die die Eigenschaft zutrifft.\\
+
+\begin{figure}[h]
+\centering
+\textit{M}\textsubscript{3} := \{ \textit{n} $\neq$ $\mathbb{N}$ | \textit{n} mod 2 = 0 \}\\
+\textit{M}\textsubscript{4} := \{ \textit{n} \textsuperscript{2} | $\neq$ $\mathbb{N}$  \}\\
+\end{figure}
+
+Demnach enthält die Menge \textit{M}\textsubscript{3} alle Elemente \textit{n} $\in$ $\mathbb{N}$, die sich ohne
+Rest durch 2 dividieren lassen, und die Menge \textit{M}\textsubscript{4} die Werte \textit{n} \textsuperscript{2} für alle natürlichen Zahlen \textit{n} $\in$ $\mathbb{N}$. Die Mengen \textit{M}\textsubscript{3} und \textit{M}\textsubscript{4} sind damit nichts anderes als eine deskriptive Beschreibung der im vorherigen
+Beispiel eingeführten Mengen \textit{M}\textsubscript{1} und \textit{M}\textsubscript{2}.\\
+
+\textbf{Teilmengenbeziehungen:}
+\begin{figure}[H]
+\centering
+
+$\subseteq$ = ist Teilmenge von:\\ 
+\textit{M}\textsubscript{1} $\subseteq$ \textit{M}\textsubscript{2} 
+$\Leftrightarrow$ 
+Aus \textit{a} $\in$ \textit{M}\textsubscript{1} flogt \textit{a} $\in$ \textit{M}\textsubscript{2}\\
+
+
+$\supseteq$ = ist Obermenge von:\\
+\textit{M}\textsubscript{1} $\subseteq$ \textit{M}\textsubscript{2}
+$\Leftrightarrow$ 
+\textit{M}\textsubscript{2} $\supseteq$ \textit{M}\textsubscript{1}\\
+
+\end{figure}
+
+
+\subsection{Mengenoperationen}
+
+Vereinigung
+Schnitt
+Differenz
+Komplement
+
+Potenzmenge
+
+Kardinalität
+
+Kommunikativgesetze
+Distributivgesetze
+Neutrales Element
+Inverse Elemente
+Assoziativgesetze
+Idempotenzgesetze
+Absorptionsgesetze
+Gesetze von De Morgan
+Auslöschungsgesetze
+Gesetz der Doppelnegation
+
+\section{Relationen und Funktionen}
+
+\textbf{Zeichenerklärung:}\\
+\begin{figure}[h]
+\centering
+\textbf{Relationalzeichen:} \textit{$\sim$} = steht in Relation zu.\\
+\end{figure}
+
+Kartesischses Produkt
+
+\subsection{Relation}
+
+Graphdarstellung
+Matrix-Darstellung hier noch bespiel der Potentmenge als Matrix (alle möglichen kombinationen müssen abgedeckt sein)\\
+
+
+Relationsattribute:
+reflexiv
+irreflexiv
+symetisch
+asymmetisch
+antisymmetisch
+transitiv
+linkstotal
+rechttotal
+linkseindeutig
+rechtseindeutig
+
+Relationsprodukt, inverse Relation
+
+Transitive Hülle
+
+Reflexiv Transitive Hülle
+
+Äquivalenzrelation
+Ordnungsrelation
+
+
+Surjetivität
+Injetivität
+Bijetivität
+
+
+\subsection{Funktion}
+
+Bei Funktionen kann zunächst zwischen Funktionen der Informatik und der Mathematik gesprochen werden. 
+
+total 
+partiell
+
+surjetiv
+bijetiv
+bijetiv
+
+
+\section{Die Welt der Zahlen}
+\subsection{Natürliche, rationale und reelle Zahlen}
+\subsection{Von großen Zahlen}
+\subsection{Die Unendlichkeit begreifen}
+
+\section{Rekursion und induktive Beweise}
+\subsection{Vollständige Induktion}
+
+
+
+
+
