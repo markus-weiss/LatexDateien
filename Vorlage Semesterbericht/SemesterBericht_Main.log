@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  15 OCT 2018 18:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  15 OCT 2018 23:36
 entering extended mode
 **./SemesterBericht_Main.tex
 (SemesterBericht_Main.tex
@@ -793,7 +793,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
 (SemesterBericht_Main.aux (Forschungskonzeption.aux)
-(AdvancedMediaProduktion.aux) (FormaleSprachen.aux))
+(AdvancedMediaProduktion.aux) (FormaleSprachen.aux)
+(ModerneProgrammiersprachen.aux) (IntroductionToDeepLearning.aux))
 \openout1 = `SemesterBericht_Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
@@ -958,7 +959,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [2
 
-]
+] [3]
 \openout2 = `Forschungskonzeption.aux'.
 
 
@@ -1003,7 +1004,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
 
-[3
+[4
 
 
 
@@ -1033,18 +1034,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
-[4]
+[5]
 Overfull \hbox (18.6647pt too wide) in paragraph at lines 126--129
 \T1/lmr/m/n/12 Die Lin-se in un-se-rem Au-ge ver-än-dert ih-re Brenn-wei-te dur
 ch mus-ku-lä-re Deh-nung/Streckung
  []
 
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 194--196
 
  []
@@ -1077,12 +1078,12 @@ Overfull \hbox (256.73181pt too wide) in paragraph at lines 199--200
 yklopischeFusion.JPG [] 
  []
 
-) [7] [8]
+) [8] [9]
 \openout2 = `FormaleSprachen.aux'.
 
  (FormaleSprachen.tex
 chapter 2.
-[9
+[10
 
 
 
@@ -1134,44 +1135,143 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-) [11] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 136--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--191
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 193--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
+
+ []
+
+[14]) [15]
+\openout2 = `ModerneProgrammiersprachen.aux'.
+
+ (ModerneProgrammiersprachen.tex
+chapter 3.
+) [16
+
+
+
+]
+\openout2 = `IntroductionToDeepLearning.aux'.
+
+ (IntroductionToDeepLearning.tex
+chapter 4.
+) [17
+
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (SemesterBericht_Main.aux (Forschungskonzeption.aux)
-(AdvancedMediaProduktion.aux) (FormaleSprachen.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
-Package rerunfilecheck Info: File `SemesterBericht_Main.out' has not changed.
-(rerunfilecheck)             Checksum: 8AC4C51D30BF5FBDCA2A4E465EFDAE40;1955.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
+(AdvancedMediaProduktion.aux) (FormaleSprachen.aux)
+(ModerneProgrammiersprachen.aux) (IntroductionToDeepLearning.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+
+
+Package rerunfilecheck Warning: File `SemesterBericht_Main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `SemesterBericht_Main.out':
+(rerunfilecheck)             Before: 0A778823784FE5AC29612A8C89176C25;2634
+(rerunfilecheck)             After:  6195A78670CEB8E4EAF0BF2D047C8D54;2699.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 11015 strings out of 493323
- 173048 string characters out of 3141221
- 369662 words of memory out of 3000000
- 14312 multiletter control sequences out of 15000+200000
- 58477 words of font info for 54 fonts, out of 3000000 for 9000
+ 11075 strings out of 493323
+ 174266 string characters out of 3141221
+ 372664 words of memory out of 3000000
+ 14330 multiletter control sequences out of 15000+200000
+ 59711 words of font info for 54 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
- 50i,12n,66p,8894b,406s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/Latex/
-fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-
-ec.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Fil
+ 50i,10n,66p,8894b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/Latex/
+fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-math
+it.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Fil
 es/Latex/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/Latex/fonts/type1/p
 ublic/lm/lmmi12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmr12.pfb><C:
 /Program Files/Latex/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/Latex/fo
 nts/type1/public/lm/lmr8.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri
-12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmro12.pfb><C:/Program Fil
-es/Latex/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/Latex/fonts/type1
-/public/lm/lmsy10.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmtt12.pfb>
-<C:/Program Files/Latex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on SemesterBericht_Main.pdf (12 pages, 270220 bytes).
+12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri8.pfb><C:/Program File
+s/Latex/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/Latex/fonts/type1/
+public/lm/lmsy10.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmtt12.pfb><
+C:/Program Files/Latex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on SemesterBericht_Main.pdf (17 pages, 268062 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
 

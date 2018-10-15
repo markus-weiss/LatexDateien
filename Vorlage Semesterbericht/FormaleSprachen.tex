@@ -110,25 +110,127 @@ $\Leftrightarrow$
 
 \subsection{Mengenoperationen}
 
-Vereinigung
-Schnitt
-Differenz
-Komplement
 
-Potenzmenge
+\textbf{Vereinigung:}\textit{M}\textsubscript{1} vereinigt mit \textit{M}\textsubscript{2}\\
+\textit{M}\textsubscript{1} $\cup$ \textit{M}\textsubscript{2} :=  \\
+\{ \textit{a} | \textit{a} $\in$ \textit{M}\textsubscript{1} oder \textit{a} $\in$ \textit{M}\textsubscript{2} \}
 
-Kardinalität
 
-Kommunikativgesetze
-Distributivgesetze
-Neutrales Element
-Inverse Elemente
-Assoziativgesetze
-Idempotenzgesetze
-Absorptionsgesetze
-Gesetze von De Morgan
-Auslöschungsgesetze
-Gesetz der Doppelnegation
+\textbf{Schnitt:} \textit{M}\textsubscript{1} (herraus)geschnitten \textit{M}\textsubscript{2} 
+\textit{M}\textsubscript{1} $\cap$ \textit{M}\textsubscript{2} :=  \\
+\{ \textit{a} | \textit{a} $\in$ \textit{M}\textsubscript{1} und \textit{a} $\in$ \textit{M}\textsubscript{2} \}
+
+
+\textbf{Differenz:} Die Differenz meint die Menge, den Anteil von \textit{M}\textsubscript{2} aus \textit{M}\textsubscript{1} entfernt.
+\textit{M}\textsubscript{1} $\cap$ \textit{M}\textsubscript{2} :=  \\
+\{ \textit{a} | \textit{a} $\in$ \textit{M}\textsubscript{1} und \textit{a} $\in$ \textit{M}\textsubscript{2} \}
+
+
+\textbf{Komplement:} Die Komplementmenge, meint die Menge, die übrig bleibt wenn man alles weg lässt außer \textit{M}\textsubscript{1}.\\
+
+
+
+\newpage
+\subsubsection{Mengenalgebra}
+
+\textbf{Kommunikativgesetze:} Meint, es ist egal wo eine Menge steht, die Operation ist die selbe.\\
+\begin{figure}[H]
+\centering
+\textit{M}\textsubscript{1} $\cap$ \textit{M}\textsubscript{2} = 
+\textit{M}\textsubscript{2} $\cap$ \textit{M}\textsubscript{1}\\
+
+\textit{M}\textsubscript{1} $\cup$ \textit{M}\textsubscript{2} = 
+\textit{M}\textsubscript{2} $\cup$ \textit{M}\textsubscript{1} \\
+\end{figure}
+
+
+\textbf{Distributivgesetze:} Meint, das eine Menge immer in eine Klammer hinein multipliziert werden kann. Wobei hier die Operatoren in der Klammer umgedreht werden müssen.\\
+\begin{figure}[H]
+\centering
+\textit{M}\textsubscript{1} $\cup$ ( \textit{M}\textsubscript{2} $\cup$ \textit{M}\textsubscript{3}) =
+(\textit{M}\textsubscript{1} $\cup$ \textit{M}\textsubscript{2}) $\cap$ (\textit{M}\textsubscript{1} $\cup$ \textit{M}\textsubscript{3})
+\end{figure}
+
+
+\textbf{Neutrales Element:} Das neutrale Element meint, eine Menge vereinigt mit der leeren Menge, ist die Menge selbst. Eine Menge geschnitten mit dem Komplement, ist auch die Menge selbst. \\
+\begin{figure}[H]
+\centering
+\textit{M} $\cup$ $\emptyset$ = \textit{M}\\
+\textit{M} $\cap$ \textit{T} = \textit{M}
+\end{figure}
+
+
+
+
+\textbf{Inverse Elemente:} Das inverse Element einer Menge ist, eine Menge vereinigt mit seiner \textit{Komplementärmenge} ist das \textit{Komplement}. Eine Menge geschnitten mit seiner Komplementärmenge, ist die \textit{leere Menge}.\\
+\begin{figure}[H]
+\centering
+%\textit{M} $\cup$ \overline{\textit{M}} = \textit{T}\\
+%\textit{M} $\cap$ \overline{\textit{M}} = $\emptyset$
+\end{figure}
+
+\textbf{Assoziativgesetze:} Meint, dass wenn auf alle Mengen einer Gleichung die selbe Operation durchgeführt wird, tritt wieder das Kommunikativgesetz in Kraft. Gilt also auch für Vereinigung wie auch für Schnitt\\
+\begin{figure}[H]
+\centering
+\textit{M}\textsubscript{1} $\cup$ (\textit{M}\textsubscript{2} $\cup$ \textit{M}\textsubscript{3}) = 
+(\textit{M}\textsubscript{1}) $\cup$ \textit{M}\textsubscript{2}) $\cup$ \textit{M}\textsubscript{3}\\
+\end{figure}
+
+\textbf{Idempotenzgesetze:} Eine Menge, geschnitten oder vereinigt mit sich selbst ist immer die Menge selbst.\\
+\begin{figure}[H]
+\centering
+\textit{M} $\cup$ \textit{M} = \textit{M}\\
+\textit{M} $\cap$ \textit{M} = \textit{M}\\
+\end{figure}
+
+\textbf{Absorptionsgesetze:} Eine Menge \textit{vereinigt} mit einem \textit{Schnitt} derselben Menge und einer anderen Menge ergibt die Menge selbst. Eine Menge \textit{geschnitten} mit einer \textit{Vereinigung} derselben Menge und einer anderen Menge ist auch die Menge selbst. \\
+\begin{figure}[H]
+\centering
+\textit{M}\textsubscript{1} $\cup$ (\textit{M}\textsubscript{1} $\cap$ \textit{M}\textsubscript{2}) = \textit{M}\textsubscript{1}\\ 
+\textit{M}\textsubscript{1} $\cap$ (\textit{M}\textsubscript{1} $\cup$ \textit{M}\textsubscript{2}) = \textit{M}\textsubscript{1}\\ 
+\end{figure}
+
+\textbf{Gesetze von De Morgan:} Das \textit{Komplement} einer Operation ist immer die gegenteilige Operation\\
+%\begin{figure}[H]
+%\centering
+%\overline{\textit{M}\textsubscript{1} $\bar{\cup}$ \overline{\textit{M}\textsubscript{2}} = 
+%\overline{\textit{M}\textsubscript{1}} $\cap$ \overline{\textit{M}\textsubscript{2}}
+%\end{figure}
+
+\textbf{Auslöschungsgesetze:} \\
+Eine Menge vereinigt mit der \textit{Komplementärmenge} ist die Komplementärmenge.\\
+\begin{figure}[H]
+\centering
+\textit{M} $\cup$ \textit{T} = \textit{T}\\
+\end{figure}
+Eine Menge geschnitten mit der neutralen Menge ist die neutrale Menge.\\
+\begin{figure}[H]
+\centering
+\textit{M} $\cup$ $\emptyset$ = $\emptyset$\\
+\end{figure}
+
+\textbf{Gesetz der Doppelnegation:}\\
+\begin{figure}[H]
+\centering
+$\overline{\overline{M}}$ = \textit{M}
+\end{figure}
+
+
+\textbf{Kardinalität:} Meint den Betrag deiner Menge. Also die Anzahl der Elemente einer Menge.\\
+\begin{figure}[H]
+\centering
+\textit{M} = \{1,2,3,4\}  $\Rightarrow$ |\textit{A}| =4\\
+\end{figure}
+
+\textbf{Potenzmenge:} Meint die \textit{Vereinigung} aller Teilmengen zu einer neuen Menge 2\textsuperscript{\textit{M}}. Jede nicht leere Menge hat mindestens Zwei Elemente\\
+
+\textit{M} = \{ \{a\}  ,\{b\} \}
+\textit{P} = \{ $\emptyset$, \{a\}  ,\{b\}, \{a,b\} \}\\
+2\textsuperscript{ \textit{M}} := \{ \textit{M'} | \textit{M'} $\subset$ \textit{M} \}
+
+
+\textbf{Partition \& Äquivalenzklassen:} Eine \textit{Partition} von \textit{M}, ist wenn jedes Element aus M in nur einer Menge aus \textit{P} liegt. Die Elemente aus \textit{P} werden als \textit{Äquivalenzklassen} bezeichnet.\\
+\textit{P} $\subseteq$ 2\textsuperscript{\textit{M}}
 
 \section{Relationen und Funktionen}
 

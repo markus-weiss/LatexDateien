@@ -23,3 +23,14 @@
 \BOOKMARK [2][-]{subsection.2.3.3}{Die Unendlichkeit begreifen}{section.2.3}% 23
 \BOOKMARK [1][-]{section.2.4}{Rekursion und induktive Beweise}{chapter.2}% 24
 \BOOKMARK [2][-]{subsection.2.4.1}{Vollst\344ndige Induktion}{section.2.4}% 25
+\BOOKMARK [0][-]{chapter.3}{Moderne Programmiersprachen}{}% 26
+\BOOKMARK [1][-]{section.3.1}{Imperative Programmiersprachen}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.2}{Hoare-Formeln}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.3}{Hoare-Kalk\374l}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.1}{Zuweisungsaxiom}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.2}{Sequenzregel}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.3}{Alternativregel}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.4}{Iterationsregel}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.5}{Konsequenzregel}{section.3.3}% 34
+\BOOKMARK [0][-]{chapter.4}{Introduction to Deep Learning}{}% 35
+\BOOKMARK [1][-]{section.4.1}{Linear Regression}{chapter.4}% 36
