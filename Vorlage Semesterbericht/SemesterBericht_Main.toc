@@ -18,21 +18,21 @@
 \contentsline {subsubsection}{\nonumberline Mengenalgebra}{13}{section*.10}
 \contentsline {section}{\numberline {2.2}Relationen und Funktionen}{14}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Relation}{15}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Funktion}{15}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Die Welt der Zahlen}{15}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Nat\IeC {\"u}rliche, rationale und reelle Zahlen}{15}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Von gro\IeC {\ss }en Zahlen}{15}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Die Unendlichkeit begreifen}{15}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Rekursion und induktive Beweise}{15}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Vollst\IeC {\"a}ndige Induktion}{15}{subsection.2.4.1}
-\contentsline {chapter}{\numberline {3}Moderne Programmiersprachen}{16}{chapter.3}
-\contentsline {section}{\numberline {3.1}Imperative Programmiersprachen}{16}{section.3.1}
-\contentsline {section}{\numberline {3.2}Hoare-Formeln}{16}{section.3.2}
-\contentsline {section}{\numberline {3.3}Hoare-Kalk\IeC {\"u}l}{16}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Zuweisungsaxiom}{16}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Sequenzregel}{16}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Alternativregel}{16}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Iterationsregel}{16}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Konsequenzregel}{16}{subsection.3.3.5}
-\contentsline {chapter}{\numberline {4}Introduction to Deep Learning}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Linear Regression}{17}{section.4.1}
+\contentsline {subsection}{\numberline {2.2.2}Funktion}{16}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Die Welt der Zahlen}{17}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Nat\IeC {\"u}rliche, rationale und reelle Zahlen}{17}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Von gro\IeC {\ss }en Zahlen}{17}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Die Unendlichkeit begreifen}{17}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Rekursion und induktive Beweise}{17}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Vollst\IeC {\"a}ndige Induktion}{17}{subsection.2.4.1}
+\contentsline {chapter}{\numberline {3}Moderne Programmiersprachen}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Imperative Programmiersprachen}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Hoare-Formeln}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}Hoare-Kalk\IeC {\"u}l}{18}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Zuweisungsaxiom}{18}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Sequenzregel}{18}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Alternativregel}{18}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Iterationsregel}{18}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Konsequenzregel}{18}{subsection.3.3.5}
+\contentsline {chapter}{\numberline {4}Introduction to Deep Learning}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Linear Regression}{19}{section.4.1}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  15 OCT 2018 23:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  16 OCT 2018 20:57
 entering extended mode
 **./SemesterBericht_Main.tex
 (SemesterBericht_Main.tex
@@ -1206,16 +1206,154 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--226
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--249
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-[14]) [15]
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 249--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.283 R^
+        0 := (x,x)\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.285 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--285
+
+ []
+
+[15]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.286 R^
+        0 = reflexiv, alle Elemente sind mit sich selbst verbunden.\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.287 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+) [16] [17]
 \openout2 = `ModerneProgrammiersprachen.aux'.
 
  (ModerneProgrammiersprachen.tex
 chapter 3.
-) [16
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+) [18
 
 
 
@@ -1224,7 +1362,7 @@ chapter 3.
 
  (IntroductionToDeepLearning.tex
 chapter 4.
-) [17
+) [19
 
 
 
@@ -1236,42 +1374,33 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
 (ModerneProgrammiersprachen.aux) (IntroductionToDeepLearning.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
-
-
-Package rerunfilecheck Warning: File `SemesterBericht_Main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `SemesterBericht_Main.out':
-(rerunfilecheck)             Before: 0A778823784FE5AC29612A8C89176C25;2634
-(rerunfilecheck)             After:  6195A78670CEB8E4EAF0BF2D047C8D54;2699.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `SemesterBericht_Main.out' has not changed.
+(rerunfilecheck)             Checksum: 6195A78670CEB8E4EAF0BF2D047C8D54;2699.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 11075 strings out of 493323
- 174266 string characters out of 3141221
- 372664 words of memory out of 3000000
- 14330 multiletter control sequences out of 15000+200000
+ 11080 strings out of 493323
+ 174307 string characters out of 3141221
+ 372670 words of memory out of 3000000
+ 14333 multiletter control sequences out of 15000+200000
  59711 words of font info for 54 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
  50i,10n,66p,8894b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/Latex/
-fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-math
-it.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Fil
+{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/La
+tex/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-
+ec.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Fil
 es/Latex/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/Latex/fonts/type1/p
-ublic/lm/lmmi12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmr12.pfb><C:
-/Program Files/Latex/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/Latex/fo
-nts/type1/public/lm/lmr8.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri
-12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri8.pfb><C:/Program File
-s/Latex/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/Latex/fonts/type1/
-public/lm/lmsy10.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmtt12.pfb><
-C:/Program Files/Latex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on SemesterBericht_Main.pdf (17 pages, 268062 bytes).
+ublic/lm/lmmi12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmmi8.pfb><C:
+/Program Files/Latex/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/Latex/fo
+nts/type1/public/lm/lmr17.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmr
+8.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri12.pfb><C:/Program File
+s/Latex/fonts/type1/public/lm/lmri8.pfb><C:/Program Files/Latex/fonts/type1/pub
+lic/lm/lmssbx10.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmsy10.pfb><C
+:/Program Files/Latex/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/Latex/
+fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on SemesterBericht_Main.pdf (19 pages, 283109 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
- 281 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 366 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
 

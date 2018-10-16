@@ -2,11 +2,37 @@
 \section{Imperative Programmiersprachen}
 \section{Hoare-Formeln}
 \section{Hoare-Kalkül}
+
+Vorbedingung, Programm, Nachbedingung\\
+
 \subsection{Zuweisungsaxiom}
+Zuweisung von Variablen\\
+
 \subsection{Sequenzregel}
+Ersetzbarkeit (transitivität) A{P}B - B{Q}C = A{PQ}C
+
 \subsection{Alternativregel}
+if
+A und B {P} C
+A und nicht B ->
+
+Wenn A und B zutreffen wir P ausgeführt. Wenn A und nicht B zutreffen wird das Programm übersprungen.
+
 \subsection{Iterationsregel}
+Schleifeninvariaten I MUSS immer gleich bleiben, also vor und nach der Schleife 
+die Schleife läuft so lange wie B = true solange bis B = false. Wenn B niemals false ist dann läuft die Schleife ewig.
+
 \subsection{Konsequenzregel}
+Man kann die Vorbedignung stärker und die nachbedigung schwächer und das programm gilt immer noch.
+
+Stärker = stärker eingrenzen
+Schwächer = weniger eingrenzen 
+
+Wenn P das erste macht es auch das zweite:
+x > 2 {P} x < 10
+x > 3 {P} x < 10
+x > 3 {P} x < 12
+
 
 
 

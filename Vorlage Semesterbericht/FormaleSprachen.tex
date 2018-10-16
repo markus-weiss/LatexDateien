@@ -240,7 +240,9 @@ $\overline{\overline{M}}$ = \textit{M}
 \textbf{Relationalzeichen:} \textit{$\sim$} = steht in Relation zu.\\
 \end{figure}
 
-Kartesischses Produkt
+\textbf{Relation:} (sin tuple, Beziehungen innerhalb einer Menge) Eine Relation meint, wenn zwei Elemente in einer \textit{Relation} oder auch \textit{Zusammenhang} stehen. So meint x \~ y das diese Elemente bzgl. der Relation in Zusammenhang stehen. Das Gegenteil x NICHT\~ y stehen nicht in Zusammenhang. Relation ist eine Teilmenge eines karesicehn Produkt einer Menge\\
+
+\textbf{Kartesischses Produkt:} Das Kartesische produkt von M x M bilded man tupel in der Menge selbst. Man bildet alle Elemente auf alle ab. 
 
 \subsection{Relation}
 
@@ -248,31 +250,61 @@ Graphdarstellung
 Matrix-Darstellung hier noch bespiel der Potentmenge als Matrix (alle möglichen kombinationen müssen abgedeckt sein)\\
 
 
-Relationsattribute:
-reflexiv
-irreflexiv
-symetisch
-asymmetisch
-antisymmetisch
-transitiv
-linkstotal
-rechttotal
-linkseindeutig
-rechtseindeutig
+Relationsattribute:\\
 
-Relationsprodukt, inverse Relation
+reflexiv: wenn alle Elemente einer Menge M mit sich selbst verbunden sind.\\
 
-Transitive Hülle
+irreflexiv: Wenn kein Element einer Menge M mit sich selbst verbunden ist.\\
 
-Reflexiv Transitive Hülle
+symetisch: Wenn (für alle Elemente) x mit y und auch y mit x verbunden ist.\\
 
-Äquivalenzrelation
-Ordnungsrelation
+asymmetisch: Wenn x - y aber nicht y - x verbunden ist\\
+
+antisymmetisch: Wenn für ein Element x - y gibt un dieses auch y - x folgt das x = y. Wenn gewisse Elemente tuple in einer Matrix mit sich selbst verbunden sind und auch gleich sie selbst sind.\\
+
+transitiv: Wenn es einen Weg von 1 - 2 und 2 - 3 gibt, gibt es auch immer einen (indirekten) Weg von 1-3\\
+ 
+http://www.mathematik.net/relationen/re1s0.htm
+ 
+ 
+linkstotal (linksvollständig): Wenn für alle x genau eine Verbindung zu einem y besteht.\\
+
+rechttotal(rechtsvollständig): Wenn für alle y genau eine Verbindung zu einem x besteht.\\
+
+linkseindeutig: Wenn x \~ z und y \~ y folgt das x = y. Wenn x durch y ersetzt werden kann weil das einzige was sie definiert ihre verbindung zu z ist.\\
 
 
-Surjetivität
-Injetivität
-Bijetivität
+http://www.mathematik.net/relationen/re2s0.htm
+rechtseindeutig: 
+ Wenn x \~ y und x \~ z folgt das x = z. Es gibt keinen Pfeil der zweimal auf ein element von x nach y zeigt
+
+Relationsprodukt, inverse Relation:  \\
+R*S = (x,y) | es gibt ein z mit x \~ z und z \~y.
+R^0 := (x,x)\\ 
+R^n :=R*R^n-1 = 2^n = 2 * 2^n-1\\
+
+R^0 = reflexiv, alle Elemente sind mit sich selbst verbunden.\\
+
+ \textit{Gleichheitsrelation} oder \textit{Identität}
+
+Transitive Hülle: Kleinste gemeinsame Verbindung\\
+
+Reflexiv Transitive Hülle: Die geringste Menge an verbindungen und die Verbindung der Elemente mit sich selbst.\\
+
+Äquivalenzrelation: reflexiv, symmetrisch und transitiv\\
+Jeder mit sich selbst, jede Verbindung in beide richtungen, Wenn von a nach b und b zu c dann a zu c\\
+
+Ordnungsrelation: reflexiv, transitiv und antisymmetrisch \\
+Jeder mit sich selbst, jede Verbindung in beide richtungen, Wenn x durch y ersetzt werden kann \\
+
+
+
+Surjetivität: Wenn von a zu b mindestens eine verbindung besteht.\\
+
+Injetivität: Es gibt von b zu a genau eine Abbildung\\
+
+
+Bijetivität: Injetiv + Surjektiv, wenn jedes element von a und b genau eine Verbindung bestitzen eine 1:1 zuordnung.
 
 
 \subsection{Funktion}
