@@ -28,10 +28,31 @@ Man kann die Vorbedignung stärker und die nachbedigung schwächer und das progr
 Stärker = stärker eingrenzen
 Schwächer = weniger eingrenzen 
 
-Wenn P das erste macht es auch das zweite:
-x > 2 {P} x < 10
-x > 3 {P} x < 10
-x > 3 {P} x < 12
+Wenn P das erste macht es auch das zweite:\\
+x > 2 {P} x < 10\\
+x > 3 {P} x < 10\\
+x > 3 {P} x < 12\\
+
+\section{WP-Kalkül}
+
+Das WP-Kalkül oder auch (weakest precondition) \textit{schwächste Vorbedingung}\\
+
+\begin{itemize}
+\item \textbf{schwächste Vorbedingung:} was muss zu Beginn eines Programms mindestens erfüllt sein.
+\item \textbf{Ziel:} Die Vorbedingung anhand von Programm und Nachbedingung zu berechnen (Hinweis: es gibt meist mehrere Vorbedingungen). 
+\end{itemize}
+
+\subsection{Partielle Korrektheit}
+
+\begin{itemize}
+\item \textbf{while-Beweis:} $I while(B)  \{ I \cap B P I \} I \cap \lnot B$
+\item \textbf{if-Beweis:} $A \cap (\lnot B \Rightarrow	C ) \textit{if}(B){A \cap B P C} C$
+\end{itemize}
+
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  16 OCT 2018 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  22 OCT 2018 21:41
 entering extended mode
 **./SemesterBericht_Main.tex
 (SemesterBericht_Main.tex
@@ -952,14 +952,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
-)
+ [2
+
+])
 \tf@toc=\write4
 \openout4 = `SemesterBericht_Main.toc'.
 
 
-[2
-
-] [3]
+[3]
 \openout2 = `Forschungskonzeption.aux'.
 
 
@@ -1051,39 +1051,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--196
  []
 
 
-LaTeX Warning: File `Advanced Media Produktion/ZyklopischeFusion.JPG' not found
- on input line 199.
+<img/AdvancedMediaProduktion/ZyklopischeFusion.JPG, id=285, 871.75688pt x 544.2
+8343pt>
+File: img/AdvancedMediaProduktion/ZyklopischeFusion.JPG Graphic file (type jpg)
 
+ <use img/AdvancedMediaProduktion/ZyklopischeFusion.JPG>
+Package pdftex.def Info: img/AdvancedMediaProduktion/ZyklopischeFusion.JPG used
+ on input line 203.
+(pdftex.def)             Requested size: 426.79134pt x 266.46867pt.
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 223--225
 
-! Package pdftex.def Error: File `Advanced Media Produktion/ZyklopischeFusion.J
-PG' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.199 ...d Media Produktion/ZyklopischeFusion.JPG}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 199.
-
-("C:\Program Files\Latex\tex\latex\lm\t1lmtt.fd"
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Overfull \hbox (256.73181pt too wide) in paragraph at lines 199--200
-\T1/lmr/m/n/12 Media Pro-duk-ti-on/ZyklopischeFusion.JPG Me-dia Pro-duk-ti-on/Z
-yklopischeFusion.JPG [] 
  []
 
-) [8] [9]
+
+<img/AdvancedMediaProduktion/Panumraum.JPG, id=290, 944.02687pt x 505.13719pt>
+File: img/AdvancedMediaProduktion/Panumraum.JPG Graphic file (type jpg)
+
+<use img/AdvancedMediaProduktion/Panumraum.JPG>
+Package pdftex.def Info: img/AdvancedMediaProduktion/Panumraum.JPG used on inpu
+t line 228.
+(pdftex.def)             Requested size: 426.79134pt x 228.3733pt.
+ [9 <./img/AdvancedMediaProduktion/ZyklopischeFusion.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
+
+ []
+
+) [10 <./img/AdvancedMediaProduktion/Panumraum.JPG>] [11]
 \openout2 = `FormaleSprachen.aux'.
 
  (FormaleSprachen.tex
 chapter 2.
-[10
+[12
 
 
 
@@ -1135,12 +1134,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
-[11]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 136--144
 
  []
@@ -1175,7 +1174,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--191
 
  []
 
-[13]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 193--199
 
  []
@@ -1210,13 +1209,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 249--251
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
@@ -1265,80 +1264,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.283 R^
-        0 := (x,x)\\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.285 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--285
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
-[15]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.286 R^
-        0 = reflexiv, alle Elemente sind mit sich selbst verbunden.\\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.287 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--296
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--299
+Underfull \hbox (badness 10000) in paragraph at lines 308--310
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
-) [16] [17]
+) [18] [19]
 \openout2 = `ModerneProgrammiersprachen.aux'.
 
  (ModerneProgrammiersprachen.tex
@@ -1353,20 +1319,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-) [18
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+[20
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+) [21]
 \openout2 = `IntroductionToDeepLearning.aux'.
 
  (IntroductionToDeepLearning.tex
-chapter 4.
-) [19
+part I.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 1.
+[22
 
 
 
 ]
+chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+[23
+
+]) [24]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (SemesterBericht_Main.aux (Forschungskonzeption.aux)
@@ -1375,32 +1373,31 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
 Package rerunfilecheck Info: File `SemesterBericht_Main.out' has not changed.
-(rerunfilecheck)             Checksum: 6195A78670CEB8E4EAF0BF2D047C8D54;2699.
+(rerunfilecheck)             Checksum: 0047B22B63B2ED2CCFB90AB9138309DF;3563.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 11080 strings out of 493323
- 174307 string characters out of 3141221
- 372670 words of memory out of 3000000
- 14333 multiletter control sequences out of 15000+200000
- 59711 words of font info for 54 fonts, out of 3000000 for 9000
+ 11130 strings out of 493323
+ 175172 string characters out of 3141221
+ 372738 words of memory out of 3000000
+ 14331 multiletter control sequences out of 15000+200000
+ 72416 words of font info for 57 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
- 50i,10n,66p,8894b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/La
-tex/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-
-ec.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Fil
+ 50i,10n,66p,8894b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/Latex/
+fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-math
+it.enc}{C:/Program Files/Latex/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Fil
 es/Latex/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/Latex/fonts/type1/p
-ublic/lm/lmmi12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmmi8.pfb><C:
-/Program Files/Latex/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/Latex/fo
-nts/type1/public/lm/lmr17.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmr
-8.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri12.pfb><C:/Program File
-s/Latex/fonts/type1/public/lm/lmri8.pfb><C:/Program Files/Latex/fonts/type1/pub
-lic/lm/lmssbx10.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmsy10.pfb><C
-:/Program Files/Latex/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/Latex/
-fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on SemesterBericht_Main.pdf (19 pages, 283109 bytes).
+ublic/lm/lmmi12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmr12.pfb><C:
+/Program Files/Latex/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/Latex/fo
+nts/type1/public/lm/lmr8.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri
+12.pfb><C:/Program Files/Latex/fonts/type1/public/lm/lmri8.pfb><C:/Program File
+s/Latex/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/Latex/fonts/type1/
+public/lm/lmsy10.pfb><C:/Program Files/Latex/fonts/type1/public/amsfonts/symbol
+s/msbm10.pfb>
+Output written on SemesterBericht_Main.pdf (24 pages, 450522 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 289 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 481 PDF objects out of 1000 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
+ 395 words of extra memory for PDF output out of 10000 (max. 10000000)
 

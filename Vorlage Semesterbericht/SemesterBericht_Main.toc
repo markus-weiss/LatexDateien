@@ -10,29 +10,73 @@
 \contentsline {section}{\numberline {1.3}Warum sehen wir die Welt nicht doppelt}{7}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Wie nehmen wir unsere Umwelt war}{7}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Exkurs zur Selektiven Sch\IeC {\"a}rfe}{8}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Warum wir die Welt nicht doppelt sehen, oder Zyklopische Fusion}{8}{subsection.1.3.3}
-\contentsline {chapter}{\numberline {2}Formale Sprachen}{10}{chapter.2}
-\contentsline {section}{\numberline {2.1}Grundlagen der Mengenlehre}{10}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Der Mengenbegriff}{10}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Mengenoperationen}{12}{subsection.2.1.2}
-\contentsline {subsubsection}{\nonumberline Mengenalgebra}{13}{section*.10}
-\contentsline {section}{\numberline {2.2}Relationen und Funktionen}{14}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Relation}{15}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Funktion}{16}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Die Welt der Zahlen}{17}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Nat\IeC {\"u}rliche, rationale und reelle Zahlen}{17}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Von gro\IeC {\ss }en Zahlen}{17}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Die Unendlichkeit begreifen}{17}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Rekursion und induktive Beweise}{17}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Vollst\IeC {\"a}ndige Induktion}{17}{subsection.2.4.1}
-\contentsline {chapter}{\numberline {3}Moderne Programmiersprachen}{18}{chapter.3}
-\contentsline {section}{\numberline {3.1}Imperative Programmiersprachen}{18}{section.3.1}
-\contentsline {section}{\numberline {3.2}Hoare-Formeln}{18}{section.3.2}
-\contentsline {section}{\numberline {3.3}Hoare-Kalk\IeC {\"u}l}{18}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Zuweisungsaxiom}{18}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Sequenzregel}{18}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Alternativregel}{18}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Iterationsregel}{18}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Konsequenzregel}{18}{subsection.3.3.5}
-\contentsline {chapter}{\numberline {4}Introduction to Deep Learning}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Linear Regression}{19}{section.4.1}
+\contentsline {subsection}{\numberline {1.3.3}Warum wir die Welt nicht doppelt sehen}{9}{subsection.1.3.3}
+\contentsline {subsubsection}{\nonumberline Zyklopische Fusion}{9}{section*.3}
+\contentsline {subsection}{\numberline {1.3.4}Patente Stereopsis}{9}{subsection.1.3.4}
+\contentsline {subsubsection}{\nonumberline Binokulare Querdisparit\IeC {\"a}t}{9}{section*.5}
+\contentsline {subsubsection}{\nonumberline Fixationsdisparit\IeC {\"a}t}{9}{section*.6}
+\contentsline {subsubsection}{\nonumberline Stereosehen ist Zapfensehen}{9}{section*.7}
+\contentsline {subsubsection}{\nonumberline Medizinischer Nachweis}{9}{section*.8}
+\contentsline {subsubsection}{\nonumberline Patente Stereopsis: Der schmale Grat der auswertbaren Fixationsdisparit\IeC {\"a}t}{9}{section*.9}
+\contentsline {subsubsection}{\nonumberline Patente Stereopsis: Der schmale Grat der vertr\IeC {\"a}glichen Fixationsdisparit\IeC {\"a}t beim Menschen}{9}{section*.10}
+\contentsline {subsubsection}{\nonumberline Patente Stereopsis ist nur im sog. \IeC {\quotedblbase }Panumraum\IeC {\textquotedblleft } m\IeC {\"o}glich}{9}{section*.11}
+\contentsline {subsubsection}{\nonumberline Grenzen der binokularen Fusionf\IeC {\"a}higkeit / Summation}{10}{section*.13}
+\contentsline {subsubsection}{\nonumberline Patente Stereopsis ist NICHT kanten\IeC {-} oder objekt\IeC {-} sondern mehrheitlich punktgetrieben}{10}{section*.14}
+\contentsline {subsubsection}{\nonumberline Warum k\IeC {\"o}nnen Menschen mit einer Augenklappe trotzdem problemlos Autofahren?}{10}{section*.15}
+\contentsline {subsection}{\numberline {1.3.5}Monokulare depth cues}{11}{subsection.1.3.5}
+\contentsline {subsubsection}{\nonumberline Verdeckung}{11}{section*.16}
+\contentsline {subsubsection}{\nonumberline Atmosph\IeC {\"a}rische Perspektive}{11}{section*.17}
+\contentsline {subsubsection}{\nonumberline Perspektivische Konvergenzen}{11}{section*.18}
+\contentsline {subsubsection}{\nonumberline Gewohnte Gr\IeC {\"o}\IeC {\ss }e im Blickfeld}{11}{section*.19}
+\contentsline {subsubsection}{\nonumberline Relative Gr\IeC {\"o}\IeC {\ss }e im Blickfeld}{11}{section*.20}
+\contentsline {subsubsection}{\nonumberline Relative H\IeC {\"o}he im Blickfeld}{11}{section*.21}
+\contentsline {subsubsection}{\nonumberline Licht \& Schatten}{11}{section*.22}
+\contentsline {subsubsection}{\nonumberline Texturdichte\IeC {-}gradient)}{11}{section*.23}
+\contentsline {subsubsection}{\nonumberline Bewegungsparallaxe}{11}{section*.24}
+\contentsline {subsubsection}{\nonumberline Dynamische Verdeckung}{11}{section*.25}
+\contentsline {chapter}{\numberline {2}Formale Sprachen}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Grundlagen der Mengenlehre}{12}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Der Mengenbegriff}{12}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Mengenoperationen}{14}{subsection.2.1.2}
+\contentsline {subsubsection}{\nonumberline Mengenalgebra}{15}{section*.32}
+\contentsline {section}{\numberline {2.2}Relationen und Funktionen}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Relation}{17}{subsection.2.2.1}
+\contentsline {subsubsection}{\nonumberline Relationsattribute:}{17}{section*.45}
+\contentsline {subsection}{\numberline {2.2.2}Funktion}{18}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Die Welt der Zahlen}{19}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Nat\IeC {\"u}rliche, rationale und reelle Zahlen}{19}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Von gro\IeC {\ss }en Zahlen}{19}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Die Unendlichkeit begreifen}{19}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Rekursion und induktive Beweise}{19}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Vollst\IeC {\"a}ndige Induktion}{19}{subsection.2.4.1}
+\contentsline {chapter}{\numberline {3}Moderne Programmiersprachen}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}Imperative Programmiersprachen}{20}{section.3.1}
+\contentsline {section}{\numberline {3.2}Hoare-Formeln}{20}{section.3.2}
+\contentsline {section}{\numberline {3.3}Hoare-Kalk\IeC {\"u}l}{20}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Zuweisungsaxiom}{20}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Sequenzregel}{20}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Alternativregel}{20}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Iterationsregel}{20}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Konsequenzregel}{20}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}WP-Kalk\IeC {\"u}l}{21}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Partielle Korrektheit}{21}{subsection.3.4.1}
+\contentsline {part}{\numberline {I}Introduction to Deep Learning}{22}{part.1}
+\contentsline {chapter}{\numberline {4}Linear Regression}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Supervised Learning}{23}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Outline}{23}{subsection.4.1.1}
+\contentsline {subsubsection}{\nonumberline What is supervised learing?}{23}{section*.47}
+\contentsline {section}{\numberline {4.2}Linear Regression}{23}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Regression accuracy}{23}{subsection.4.2.1}
+\contentsline {subsubsection}{\nonumberline ERROR}{23}{section*.48}
+\contentsline {subsubsection}{\nonumberline MAE}{23}{section*.49}
+\contentsline {subsubsection}{\nonumberline MSE}{23}{section*.50}
+\contentsline {subsubsection}{\nonumberline RMSE}{23}{section*.51}
+\contentsline {subsubsection}{\nonumberline RAE}{24}{section*.52}
+\contentsline {subsubsection}{\nonumberline RSE}{24}{section*.53}
+\contentsline {subsubsection}{\nonumberline R\textsuperscript {2}}{24}{section*.54}
+\contentsline {subsection}{\numberline {4.2.2}Train/Test split evaluation approach}{24}{subsection.4.2.2}
+\contentsline {subsubsection}{\nonumberline Test on a portion of train set}{24}{section*.55}
+\contentsline {subsubsection}{\nonumberline Train/Test Split}{24}{section*.56}
+\contentsline {subsection}{\numberline {4.2.3}K-fold cross-validation}{24}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Evaluation Metrics in Regression Models}{24}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Multipe Linear Regression}{24}{subsection.4.2.5}

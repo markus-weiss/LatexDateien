@@ -245,78 +245,95 @@ $\overline{\overline{M}}$ = \textit{M}
 \textbf{Kartesischses Produkt:} Das Kartesische produkt von M x M bilded man tupel in der Menge selbst. Man bildet alle Elemente auf alle ab. 
 
 \subsection{Relation}
+\textbf{Graphdarstellung:} \\
 
-Graphdarstellung
 Matrix-Darstellung hier noch bespiel der Potentmenge als Matrix (alle möglichen kombinationen müssen abgedeckt sein)\\
 
 
-Relationsattribute:\\
+\subsubsection{Relationsattribute:}
 
-reflexiv: wenn alle Elemente einer Menge M mit sich selbst verbunden sind.\\
+\textbf{reflexiv:} wenn alle Elemente einer Menge M mit sich selbst verbunden sind.\\
 
-irreflexiv: Wenn kein Element einer Menge M mit sich selbst verbunden ist.\\
+\textbf{irreflexiv:} Wenn kein Element einer Menge M mit sich selbst verbunden ist.\\
 
-symetisch: Wenn (für alle Elemente) x mit y und auch y mit x verbunden ist.\\
+\textbf{symetisch:} Wenn (für alle Elemente) x mit y und auch y mit x verbunden ist.\\
 
-asymmetisch: Wenn x - y aber nicht y - x verbunden ist\\
+\textbf{asymmetisch:} Wenn x - y aber nicht y - x verbunden ist\\
 
-antisymmetisch: Wenn für ein Element x - y gibt un dieses auch y - x folgt das x = y. Wenn gewisse Elemente tuple in einer Matrix mit sich selbst verbunden sind und auch gleich sie selbst sind.\\
+\textbf{antisymmetisch:} Wenn für ein Element x - y gibt un dieses auch y - x folgt das x = y. Wenn gewisse Elemente tuple in einer Matrix mit sich selbst verbunden sind und auch gleich sie selbst sind.\\
 
-transitiv: Wenn es einen Weg von 1 - 2 und 2 - 3 gibt, gibt es auch immer einen (indirekten) Weg von 1-3\\
+\textbf{transitiv:} Wenn es einen Weg von 1 - 2 und 2 - 3 gibt, gibt es auch immer einen (indirekten) Weg von 1-3\\
  
 http://www.mathematik.net/relationen/re1s0.htm
  
  
-linkstotal (linksvollständig): Wenn für alle x genau eine Verbindung zu einem y besteht.\\
+\textbf{linkstotal (linksvollständig):} Wenn für alle $x$ genau eine Verbindung zu einem y besteht.\\
 
-rechttotal(rechtsvollständig): Wenn für alle y genau eine Verbindung zu einem x besteht.\\
+\textbf{rechttotal(rechtsvollständig):} Wenn für alle y genau eine Verbindung zu einem x besteht.\\
 
-linkseindeutig: Wenn x \~ z und y \~ y folgt das x = y. Wenn x durch y ersetzt werden kann weil das einzige was sie definiert ihre verbindung zu z ist.\\
+\textbf{linkseindeutig:} Wenn x $\sim$ z und y $\sim$ y folgt das x = y. Wenn x durch y ersetzt werden kann weil das einzige was sie definiert ihre verbindung zu z ist.\\
 
 
 http://www.mathematik.net/relationen/re2s0.htm
-rechtseindeutig: 
- Wenn x \~ y und x \~ z folgt das x = z. Es gibt keinen Pfeil der zweimal auf ein element von x nach y zeigt
+\textbf{rechtseindeutig:} 
+Wenn $x \sim y$ und $x \sim z$ folgt das $x = z$. Es gibt keinen Pfeil der zweimal auf ein Element von x nach y zeigt
 
-Relationsprodukt, inverse Relation:  \\
-R*S = (x,y) | es gibt ein z mit x \~ z und z \~y.
-R^0 := (x,x)\\ 
-R^n :=R*R^n-1 = 2^n = 2 * 2^n-1\\
+\textbf{Relationsprodukt, inverse Relation:}  \\
 
-R^0 = reflexiv, alle Elemente sind mit sich selbst verbunden.\\
+\begin{figure}[H]
+\centering
+\textit{R}$\cdot$\textit{S} = (x,y) | es gibt ein z mit x $\sim$ z und z $\sim$ y\\
+$R\textsuperscript{-1} =  \{ (y,x)|(x,y) \in R \}$ \\
+\textit{R}\textsuperscript{0} = reflexiv, alle Elemente sind mit sich selbst verbunden.\\
+\textit{R}\textsuperscript{n} = $x \cdot x$\\
 
- \textit{Gleichheitsrelation} oder \textit{Identität}
+\end{figure}
 
-Transitive Hülle: Kleinste gemeinsame Verbindung\\
 
-Reflexiv Transitive Hülle: Die geringste Menge an verbindungen und die Verbindung der Elemente mit sich selbst.\\
 
-Äquivalenzrelation: reflexiv, symmetrisch und transitiv\\
+%R*S = 
+%R^0 := (x,x)\\ 
+%R^n :=R*R^n-1 = 2^n = 2 * 2^n-1\\
+
+
+\textit{Gleichheitsrelation} oder \textit{Identität}\\
+
+\textbf{Transitive Hülle: Kleinste gemeinsame Verbindung}\\
+
+\textbf{Reflexiv Transitive Hülle:} Die geringste Menge an verbindungen und die Verbindung der Elemente mit sich selbst.\\
+
+\textbf{Äquivalenzrelation: reflexiv, symmetrisch und transitiv}\\
 Jeder mit sich selbst, jede Verbindung in beide richtungen, Wenn von a nach b und b zu c dann a zu c\\
 
-Ordnungsrelation: reflexiv, transitiv und antisymmetrisch \\
+\textbf{Ordnungsrelation: reflexiv, transitiv und antisymmetrisch} \\
 Jeder mit sich selbst, jede Verbindung in beide richtungen, Wenn x durch y ersetzt werden kann \\
 
 
 
-Surjetivität: Wenn von a zu b mindestens eine verbindung besteht.\\
-
-Injetivität: Es gibt von b zu a genau eine Abbildung\\
-
-
-Bijetivität: Injetiv + Surjektiv, wenn jedes element von a und b genau eine Verbindung bestitzen eine 1:1 zuordnung.
 
 
 \subsection{Funktion}
 
+\textbf{Funktion:} Unter einer Funktion oder Abbildung $f: M -> N$ versteht man eine Zurodnung die jedem Element x der Definitionsmenge M höchstens ein Element f(x) der Zielmenge N zuweist.
+
+\begin{figure}
+\centering
+$f: x -> x² = f(x) = x²$
+\end{figure}
+
+\textbf{total:} Wenn für jedes $x \in M $ ein Element $f(x) \in N$ existiert\\
+\textbf{partiell:} Wenn sie für mindestens ein $x \ in M$ undefiniert ist\\
+
+\textbf{Surjetivität:} Wenn für alle $y \in N$ ein $x in N$ mit $f(x)$ existiert. Wenn zu jedem y höchstens ein Wert existiert\\
+
+\textbf{Injetivität:} Wenn zu jedem y mindestens ein x Wert.\\
+
+\textbf{Bijetivität:} Injetiv + Surjektiv, wenn jedes element von a und b genau eine Verbindung bestitzen eine 1:1 zuordnung.
+
+
 Bei Funktionen kann zunächst zwischen Funktionen der Informatik und der Mathematik gesprochen werden. 
 
-total 
-partiell
 
-surjetiv
-bijetiv
-bijetiv
 
 
 \section{Die Welt der Zahlen}
@@ -327,7 +344,36 @@ bijetiv
 \section{Rekursion und induktive Beweise}
 \subsection{Vollständige Induktion}
 
+\section{Aussagenlogik}
+\subsection{Syntax und Semantik}
+\subsubsection{Syntax}
+Für eine sinnvolle Syntax werden \textit{Aussagenlogische Ausdrücke} (Formeln) definiert. In welcher Art und weise diese Ausdrücke kombiniert werden dürfen.\\
 
+Die Menge der aussagenlogischen Formeln über dem Variablenvorrat\\
+V ={A1,A2, . . .} ist rekursiv definiert:\\
+- 0 und 1 sind Formeln.\\
+- Jede Variable Ai ∈ V ist eine Formel.\\
+- Sind F und G Formeln, dann sind es auch\\
+(¬F), (F ∧G), (F ∨G), (F →G), (F ↔G), (F &G).\\
+
+
+
+\subsection{Punkt-Strich-Notation}
+\subsection{Bindungsregeln}
+\subsection{Kettenregeln}
+
+
+
+\subsubsection{Semantik}
+Die \textit{Semantik} legt fest, verleiht den Ausdrücken die Bedeutung, wie die unterschiedlichen Zeichen zu interpretieren sind.\\
+
+Interpretation
+Erfüllbarkeit
+erfüllbar
+unerfüllbar
+allgemeingülltig (Tautologie) wenn nicht F unerfüllbar
+
+\subsection{KKNF kanonischer konjungtive Normalform}
 
 
 
