@@ -1,0 +1,84 @@
+%Dokumentklasse
+\documentclass[a4paper,12pt]{scrreprt}
+
+% Dokumentinformationen
+\usepackage[
+	pdftitle={Ausarbeitung_Forschungskonzeption},
+	pdfsubject={Ausarbeitung_Forschungskonzeption},
+	pdfauthor={Markus Weiß},
+	pdfkeywords={},	
+	%Links nicht einrahmen
+	hidelinks
+]{hyperref}
+
+
+% ============= Packages =============
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{graphicx, subfig}
+\usepackage{helvet}
+\usepackage{textcomp}
+
+% ============= PATHs =============
+\graphicspath{{img/}}
+\graphicspath{ {img/}{./img/} }
+
+% ============= Kopf- und Fußzeile =============
+\pagestyle{empty}
+
+% ============= Dokumentbeginn =============
+\begin{document}
+
+%===========================TITEL-Seite==============================
+
+
+\begin{titlepage}
+    \begin{center}
+    \huge \textbf{\textsf{Erstellung einer Shader-Modifikation unter Anwendung eines Generativ~Adversarial~Networks}} \\
+    \vspace{2cm}
+    	{\Large für das Computerspiel: „The Elder Scrolls V  \textsuperscript{\textcopyright}: Skyim“ \par}
+    \vspace{2cm}	
+    \LARGE\textbf{\textsc{Master-Thesis}}\\
+    \vspace{1cm}
+    \normalsize
+    vorgelegt am: \today \\
+    \vspace{2.5cm}
+    \large \textbf{an der Fakultät Digitale Medien}\\
+    \vspace{3cm}
+    \end{center}
+ \normalsize{
+    \begin{tabular}{ll}
+    	Name: & {Markus Weiß} \\
+    	Matrikelnummer: & {249149} \\
+		Fakultät: & Digitale Medien \\
+    	Studiengang: & Medieninformatik Master\\
+    	Studienjahrgang: & 2018\\
+      Erstbetreuer: & {der erste} \\
+      Zweitbetreuer: & {der zweite} \\
+    \end{tabular}\\
+    }
+    \includegraphics[scale=1.5]{Logo_Hochschule_Furtwangen}
+\end{titlepage}
+
+%===========================Inhalt==============================
+
+%Inhaltsverzeichnis
+\tableofcontents
+
+\include{Abstract}
+
+\include{Einleitung}
+
+\include{Gliederung}
+
+\include{Methodenskizze}
+
+\include{Forschungsbeitrag}
+
+%Verzeichnis aller Bilder
+%\listoffigures
+
+%Verzeichnis aller Tabellen
+%\listoftables
+
+\end{document}

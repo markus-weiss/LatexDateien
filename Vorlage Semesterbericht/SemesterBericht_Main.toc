@@ -49,6 +49,14 @@
 \contentsline {subsection}{\numberline {2.3.3}Die Unendlichkeit begreifen}{19}{subsection.2.3.3}
 \contentsline {section}{\numberline {2.4}Rekursion und induktive Beweise}{19}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Vollst\IeC {\"a}ndige Induktion}{19}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Aussagenlogik}{19}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Syntax und Semantik}{19}{subsection.2.5.1}
+\contentsline {subsubsection}{\nonumberline Syntax}{19}{section*.48}
+\contentsline {subsection}{\numberline {2.5.2}Punkt-Strich-Notation}{19}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Bindungsregeln}{19}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Kettenregeln}{19}{subsection.2.5.4}
+\contentsline {subsubsection}{\nonumberline Semantik}{19}{section*.49}
+\contentsline {subsection}{\numberline {2.5.5}KKNF kanonischer konjungtive Normalform}{19}{subsection.2.5.5}
 \contentsline {chapter}{\numberline {3}Moderne Programmiersprachen}{20}{chapter.3}
 \contentsline {section}{\numberline {3.1}Imperative Programmiersprachen}{20}{section.3.1}
 \contentsline {section}{\numberline {3.2}Hoare-Formeln}{20}{section.3.2}
@@ -64,19 +72,19 @@
 \contentsline {chapter}{\numberline {4}Linear Regression}{23}{chapter.4}
 \contentsline {section}{\numberline {4.1}Supervised Learning}{23}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Outline}{23}{subsection.4.1.1}
-\contentsline {subsubsection}{\nonumberline What is supervised learing?}{23}{section*.47}
+\contentsline {subsubsection}{\nonumberline What is supervised learing?}{23}{section*.50}
 \contentsline {section}{\numberline {4.2}Linear Regression}{23}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Regression accuracy}{23}{subsection.4.2.1}
-\contentsline {subsubsection}{\nonumberline ERROR}{23}{section*.48}
-\contentsline {subsubsection}{\nonumberline MAE}{23}{section*.49}
-\contentsline {subsubsection}{\nonumberline MSE}{23}{section*.50}
-\contentsline {subsubsection}{\nonumberline RMSE}{23}{section*.51}
-\contentsline {subsubsection}{\nonumberline RAE}{24}{section*.52}
-\contentsline {subsubsection}{\nonumberline RSE}{24}{section*.53}
-\contentsline {subsubsection}{\nonumberline R\textsuperscript {2}}{24}{section*.54}
+\contentsline {subsubsection}{\nonumberline ERROR}{23}{section*.51}
+\contentsline {subsubsection}{\nonumberline MAE}{23}{section*.52}
+\contentsline {subsubsection}{\nonumberline MSE}{23}{section*.53}
+\contentsline {subsubsection}{\nonumberline RMSE}{23}{section*.54}
+\contentsline {subsubsection}{\nonumberline RAE}{24}{section*.55}
+\contentsline {subsubsection}{\nonumberline RSE}{24}{section*.56}
+\contentsline {subsubsection}{\nonumberline R\textsuperscript {2}}{24}{section*.57}
 \contentsline {subsection}{\numberline {4.2.2}Train/Test split evaluation approach}{24}{subsection.4.2.2}
-\contentsline {subsubsection}{\nonumberline Test on a portion of train set}{24}{section*.55}
-\contentsline {subsubsection}{\nonumberline Train/Test Split}{24}{section*.56}
+\contentsline {subsubsection}{\nonumberline Test on a portion of train set}{24}{section*.58}
+\contentsline {subsubsection}{\nonumberline Train/Test Split}{24}{section*.59}
 \contentsline {subsection}{\numberline {4.2.3}K-fold cross-validation}{24}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}Evaluation Metrics in Regression Models}{24}{subsection.4.2.4}
 \contentsline {subsection}{\numberline {4.2.5}Multipe Linear Regression}{24}{subsection.4.2.5}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  11 OCT 2018 14:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.8)  11 JAN 2019 17:12
 entering extended mode
 **./MainTex.tex
 (MainTex.tex
@@ -710,74 +710,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-)
-("C:\Program Files\Latex\tex\latex\amsfonts\amsfonts.sty"
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks18
-\symAMSa=\mathgroup6
-\symAMSb=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-("C:\Program Files\Latex\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/11/05 v2.16a AMS math features
-\@mathmargin=\skip71
-
-For additional information on amsmath, use the `?' option.
-("C:\Program Files\Latex\tex\latex\amsmath\amstext.sty"
-Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Program Files\Latex\tex\latex\amsmath\amsgen.sty"
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen126
-))
-("C:\Program Files\Latex\tex\latex\amsmath\amsbsy.sty"
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen127
-)
-("C:\Program Files\Latex\tex\latex\amsmath\amsopn.sty"
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count112
-LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count113
-\leftroot@=\count114
-LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count115
-\DOTSCASE@=\count116
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box28
-\strutbox@=\box29
-\big@size=\dimen128
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count117
-\c@MaxMatrixCols=\count118
-\dotsspace@=\muskip11
-\c@parentequation=\count119
-\dspbrk@lvl=\count120
-\tag@help=\toks20
-\row@=\count121
-\column@=\count122
-\maxfields@=\count123
-\andhelp@=\toks21
-\eqnshift@=\dimen129
-\alignsep@=\dimen130
-\tagshift@=\dimen131
-\tagwidth@=\dimen132
-\totwidth@=\dimen133
-\lineht@=\dimen134
-\@envbody=\toks22
-\multlinegap=\skip72
-\multlinetaggap=\skip73
-\mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
 ) (MainTex.aux
-(Einleitung.aux))
+(Einleitung.aux) (Abstact.aux))
 \openout1 = `MainTex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -795,7 +729,8 @@ LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 61.
- ("C:\Program Files\Latex\tex\latex\psnfss\t1ptm.fd"
+
+("C:\Program Files\Latex\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -832,7 +767,7 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box28
 Package hyperref Info: Link coloring OFF on input line 61.
 ("C:\Program Files\Latex\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -840,7 +775,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\Latex\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count124
+\c@section@level=\count112
 )
 LaTeX Info: Redefining \ref on input line 61.
 LaTeX Info: Redefining \pageref on input line 61.
@@ -853,17 +788,17 @@ LaTeX Info: Redefining \nameref on input line 61.
 
 ("C:\Program Files\Latex\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
-\scratchdimen=\dimen135
-\scratchbox=\box31
-\nofMPsegments=\count126
-\nofMParguments=\count127
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count128
-\MPscratchDim=\dimen136
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count113
+\scratchdimen=\dimen126
+\scratchbox=\box29
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen127
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks19
 ) ("C:\Program Files\Latex\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -880,6 +815,7 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
+\big@size=\dimen128
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 83.
 
 ("C:\Program Files\Latex\tex\latex\base\t1cmss.fd"
@@ -948,9 +884,13 @@ chapter 2.
 ) [4
 
 ]
+\openout2 = `Abstact.aux'.
+
+
+No file Abstact.tex.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
- (MainTex.aux (Einleitung.aux))
+(MainTex.aux (Einleitung.aux) (Abstact.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `MainTex.out' has not changed.
@@ -958,20 +898,20 @@ Package rerunfilecheck Info: File `MainTex.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 10733 strings out of 493323
- 167597 string characters out of 3141221
- 363994 words of memory out of 3000000
- 14110 multiletter control sequences out of 15000+200000
- 30157 words of font info for 54 fonts, out of 3000000 for 9000
+ 10081 strings out of 493323
+ 159906 string characters out of 3141221
+ 353633 words of memory out of 3000000
+ 13476 multiletter control sequences out of 15000+200000
+ 27259 words of font info for 47 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
- 50i,10n,66p,8881b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,6n,66p,8881b,385s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/Latex/fonts/enc/dvips/base/8r.enc} <C:\Users\schnu\AppData\
 Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\schn
 u\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2488.pk><C:/P
 rogram Files/Latex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
 Latex/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/Latex/fonts/type1/urw/
 times/utmr8a.pfb><C:/Program Files/Latex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MainTex.pdf (4 pages, 61461 bytes).
+Output written on MainTex.pdf (4 pages, 61401 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
